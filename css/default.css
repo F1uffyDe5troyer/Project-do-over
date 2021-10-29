@@ -7848,6 +7848,9 @@ footer h5 {
   background:#eee;
   margin-top:20px;
 } */
+h4{
+  text-align:center;
+}
 .hori-timeline .events {
   border-top: 3px solid #e9ecef;
 }
@@ -7855,7 +7858,7 @@ footer h5 {
   display: block;
   position: relative;
   text-align: center;
-  padding-top: 70px;
+  padding-top: 90px;
   margin-right: 0;
 }
 .hori-timeline .events .event-list:before {
