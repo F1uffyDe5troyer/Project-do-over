@@ -7907,13 +7907,14 @@ footer h5 {
 
 
 /* About Section */
-body{margin-top:20px;}
+  body{margin-top:20px;
+}
 @media (max-width: 991px) {
   .about-text {
     margin-top: 40px;
   }
 }
-
+/* img */
 .imgdiv {
   width: 200px;
   height: 150px;
@@ -7926,7 +7927,7 @@ body{margin-top:20px;}
   border-bottom-right-radius: 200px;
   border-top-right-radius: 200px;
 }
-
+/* end */
 .about-text h3 {
   font-size: 45px;
   font-weight: 700;
@@ -8034,8 +8035,8 @@ body{margin-top:20px;}
     padding: 100px 0;
     position: relative;
 }
-.gray-bg {
-    background-color: #ebf4fa;
+.gray-bg {  
+    background-color: rgb(88, 88, 88);
 }
 .px-btn.theme {
     background: #fe4f6c;
