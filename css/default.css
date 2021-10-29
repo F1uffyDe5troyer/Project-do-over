@@ -7913,6 +7913,20 @@ body{margin-top:20px;}
     margin-top: 40px;
   }
 }
+
+.imgdiv {
+  width: 200px;
+  height: 150px;
+}
+
+/* Resize images */
+.imgdiv img {
+  width: 100%;
+  height: auto;
+  border-bottom-right-radius: 200px;
+  border-top-right-radius: 200px;
+}
+
 .about-text h3 {
   font-size: 45px;
   font-weight: 700;
