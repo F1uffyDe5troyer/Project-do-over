@@ -7907,7 +7907,8 @@ footer h5 {
 
 
 /* About Section */
-  body{margin-top:20px;
+  body{
+    margin-top:20px;
 }
 @media (max-width: 991px) {
   .about-text {
@@ -7932,6 +7933,7 @@ footer h5 {
   font-size: 45px;
   font-weight: 700;
   margin: 0 0 10px;
+  margin-left: 10px;
 }
 @media (max-width: 767px) {
   .about-text h3 {
@@ -7941,6 +7943,7 @@ footer h5 {
 .about-text h4 {
   font-weight: 600;
   margin-bottom: 15px;
+  color: rgb(33, 137, 197);
 }
 @media (max-width: 767px) {
   .about-text h4 {
