@@ -90,8 +90,7 @@ abbr[data-original-title] {
 address {
   margin-bottom: 1rem;
   font-style: normal;
-  line-height: inherit; 
-}
+  line-height: inherit; }
 
 ol,
 ul,
@@ -163,11 +162,11 @@ samp {
   font-family: monospace, monospace;
   font-size: 1em; }
 
-/* pre {
+pre {
   margin-top: 0;s
   margin-bottom: 1rem;
   overflow: auto;
-  -ms-overflow-style: scrollbar; } */
+  -ms-overflow-style: scrollbar; }
 
 figure {
   margin: 0 0 1rem; }
